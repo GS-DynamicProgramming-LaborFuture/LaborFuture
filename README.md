@@ -98,10 +98,3 @@ Este cenário evidencia um dos pontos mais importantes da GS:
 > *Nem sempre o método guloso encontra a melhor solução.*
 
 ---
-
-# 🖥 **Como Executar**
-
-Execute no terminal:
-```bash
-python LaborFuture.py
-
